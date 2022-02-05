@@ -1,2 +1,2 @@
-# fastai-bear-classifier
-The Amazing Bear Classifier!
+# The Amazing Bear Classifier!
+Mimicking an exercise in chapter 2 of the [fast.ai MOOC](https://course.fast.ai/), this CNN was self-trained using data scraped off of the Duck Duck Go search engine.  The model is able to identify the difference between Grizzly, Black and Teddy bears.  Training was done using a notebook in my [aspeers/fastbook repository](https://github.com/aspeers/fastbook/) ([02_production.ipynb](https://github.com/aspeers/fastbook/blob/master/personal/02_production.ipynb)).
